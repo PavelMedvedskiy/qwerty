@@ -1,0 +1,12 @@
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\nunit.framework.dll
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\WebDriver.dll
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\WebDriver.Support.dll
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\nunit.framework.xml
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\WebDriver.xml
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\bin\Debug\WebDriver.Support.xml
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\medve\onedrive\документы\visual studio 2017\Projects\Test\Test\obj\Debug\Test.pdb
